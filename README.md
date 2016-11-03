@@ -12,4 +12,6 @@ For some reason, the game only "updates" to the next frame, (i.e. advancing all 
 
 I don't know if this is the case if it is run on another computer, or if it's just mine, since an earlier game of mine had a similar issue of not updating to the next frame unless there was some sort of imput detected. 
 
+Finally, if an error pops up when you close the window of the game when you're done playing, just click the "ignore" button. I am not sure what causes that to happen. 
+
 Anyway have fun and may the goddess Hylia watch over you. 
